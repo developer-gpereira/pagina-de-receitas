@@ -9,7 +9,7 @@
 }
 
 body {
-  background: url(/assets/bg-image.png) no-repeat;
+  background: url(./assets/bg-image.png) no-repeat;
   background-size: cover;
 }
 
